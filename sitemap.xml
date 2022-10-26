@@ -2,10 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://BenjaminSMoss.github.io/</loc>
+    <loc>https://BenjaminSMoss.github.io/aboutme/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://BenjaminSMoss.github.io/sec_code/</loc>
   </url><url>
     <loc>https://BenjaminSMoss.github.io/categories/</loc>
   </url><url>
+    <loc>https://BenjaminSMoss.github.io/hardware/</loc>
+  </url><url>
+    <loc>https://BenjaminSMoss.github.io/tas_code/</loc>
+  </url><url>
+    <loc>https://BenjaminSMoss.github.io/sec_schematic/</loc>
+  </url><url>
+    <loc>https://BenjaminSMoss.github.io/tas_schematic/</loc>
+  </url><url>
+    <loc>https://BenjaminSMoss.github.io/</loc>
+  </url><url>
+    <loc>https://BenjaminSMoss.github.io/analysis_scripts/</loc>
+  </url><url>
+    <loc>https://BenjaminSMoss.github.io/software/</loc>
+  </url><url>
     <loc>https://BenjaminSMoss.github.io/tags/</loc>
+  </url><url>
+    <loc>https://BenjaminSMoss.github.io/aboutproject/</loc>
   </url>
 </urlset>
